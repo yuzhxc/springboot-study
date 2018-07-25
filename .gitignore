@@ -1,0 +1,7 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+# Exclude maven wrapper
+!/.mvn/wrapper/maven-wrapper.jar
