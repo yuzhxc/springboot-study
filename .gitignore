@@ -3,5 +3,7 @@
 *.iml
 out
 gen
-# Exclude maven wrapper
-!/.mvn/wrapper/maven-wrapper.jar
+*.jar
+*.cmd
+/.mvn/wrapper/
+mvnw
