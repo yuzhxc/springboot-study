@@ -1,5 +1,5 @@
 server:
-  port: 8099
+  port: 8080
 spring:
   dubbo:
     application:            #应用配置，用于配置当前应用信息，不管该应用是提供者还是消费者。
