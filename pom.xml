@@ -66,12 +66,6 @@
                 <artifactId>spring-boot-starter-dubbo</artifactId>
                 <version>1.0.0</version>
             </dependency>
-            <!--zookeeper依赖-->
-            <dependency>
-                <groupId>org.apache.zookeeper</groupId>
-                <artifactId>zookeeper</artifactId>
-                <version>3.4.8</version>
-            </dependency>
             <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
             <dependency>
                 <groupId>org.projectlombok</groupId>
